@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VALLEYROADAPP</string>
+    <string name="Firstname">VALLEYROADAPP</string>
+    <string name="Sign">Sign</string>
+    <string name="tryx">Sign</string>
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+</resources>

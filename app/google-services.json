@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "1097787130576",
+    "firebase_url": "https://cvalleyroad.firebaseio.com",
+    "project_id": "cvalleyroad",
+    "storage_bucket": "cvalleyroad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097787130576:android:8a5905b3e7510d02",
+        "android_client_info": {
+          "package_name": "com.example.msitati.citamvalleyrd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097787130576-rv3ngbsdtgknu5r5bo8guo856b1qqd14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.msitati.citamvalleyrd",
+            "certificate_hash": "aa46435673c42985e0f5a666b416837e99948aba"
+          }
+        },
+        {
+          "client_id": "1097787130576-0c0euasiii6uu8ibkk7pt637grttom6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRwI2azk9l0QdOg5jtE7K1yKOFEEk2Ekc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097787130576-0c0euasiii6uu8ibkk7pt637grttom6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097787130576:android:907d107788603908",
+        "android_client_info": {
+          "package_name": "com.example.msitati.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097787130576-vvgf7us7mrhvgkrv8il2ro1n04bvpul6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.msitati.myapplication",
+            "certificate_hash": "aa46435673c42985e0f5a666b416837e99948aba"
+          }
+        },
+        {
+          "client_id": "1097787130576-0c0euasiii6uu8ibkk7pt637grttom6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRwI2azk9l0QdOg5jtE7K1yKOFEEk2Ekc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097787130576-0c0euasiii6uu8ibkk7pt637grttom6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097787130576:android:5bcb6e73ce79a3b1",
+        "android_client_info": {
+          "package_name": "com.example.msitati.valleyroadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097787130576-8s1pvr3h0dock4tnn5qg1tkmj96vlgpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.msitati.valleyroadapp",
+            "certificate_hash": "aa46435673c42985e0f5a666b416837e99948aba"
+          }
+        },
+        {
+          "client_id": "1097787130576-0c0euasiii6uu8ibkk7pt637grttom6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRwI2azk9l0QdOg5jtE7K1yKOFEEk2Ekc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097787130576-0c0euasiii6uu8ibkk7pt637grttom6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
